@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jmbp-web-dev-page/static/css/main.87a0da45.chunk.css",
+    "main.css": "/jmbp-web-dev-page/static/css/main.458a1843.chunk.css",
     "main.js": "/jmbp-web-dev-page/static/js/main.3bdf0066.chunk.js",
     "main.js.map": "/jmbp-web-dev-page/static/js/main.3bdf0066.chunk.js.map",
     "runtime-main.js": "/jmbp-web-dev-page/static/js/runtime-main.a84af64c.js",
@@ -9,10 +9,10 @@
     "static/js/2.64e6b3df.chunk.js": "/jmbp-web-dev-page/static/js/2.64e6b3df.chunk.js",
     "static/js/2.64e6b3df.chunk.js.map": "/jmbp-web-dev-page/static/js/2.64e6b3df.chunk.js.map",
     "index.html": "/jmbp-web-dev-page/index.html",
-    "precache-manifest.8961cedce2920547f0cc22a2587275d4.js": "/jmbp-web-dev-page/precache-manifest.8961cedce2920547f0cc22a2587275d4.js",
+    "precache-manifest.741feb8ea4418a04711dedf396dd0cd2.js": "/jmbp-web-dev-page/precache-manifest.741feb8ea4418a04711dedf396dd0cd2.js",
     "service-worker.js": "/jmbp-web-dev-page/service-worker.js",
     "static/css/2.eef52be1.chunk.css.map": "/jmbp-web-dev-page/static/css/2.eef52be1.chunk.css.map",
-    "static/css/main.87a0da45.chunk.css.map": "/jmbp-web-dev-page/static/css/main.87a0da45.chunk.css.map",
+    "static/css/main.458a1843.chunk.css.map": "/jmbp-web-dev-page/static/css/main.458a1843.chunk.css.map",
     "static/js/2.64e6b3df.chunk.js.LICENSE.txt": "/jmbp-web-dev-page/static/js/2.64e6b3df.chunk.js.LICENSE.txt",
     "static/media/AspNet.png": "/jmbp-web-dev-page/static/media/AspNet.06ea1c1b.png",
     "static/media/BespokeDesign.png": "/jmbp-web-dev-page/static/media/BespokeDesign.7d3c0538.png",
@@ -57,7 +57,7 @@
     "static/js/runtime-main.a84af64c.js",
     "static/css/2.eef52be1.chunk.css",
     "static/js/2.64e6b3df.chunk.js",
-    "static/css/main.87a0da45.chunk.css",
+    "static/css/main.458a1843.chunk.css",
     "static/js/main.3bdf0066.chunk.js"
   ]
 }
